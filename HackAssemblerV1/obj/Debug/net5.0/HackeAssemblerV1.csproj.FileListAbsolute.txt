@@ -1,0 +1,15 @@
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/bin/Debug/net5.0/HackeAssemblerV1.deps.json
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/bin/Debug/net5.0/HackeAssemblerV1.runtimeconfig.json
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/bin/Debug/net5.0/HackeAssemblerV1.runtimeconfig.dev.json
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/bin/Debug/net5.0/HackeAssemblerV1.dll
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/bin/Debug/net5.0/ref/HackeAssemblerV1.dll
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/bin/Debug/net5.0/HackeAssemblerV1.pdb
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/obj/Debug/net5.0/HackeAssemblerV1.csproj.AssemblyReference.cache
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/obj/Debug/net5.0/HackeAssemblerV1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/obj/Debug/net5.0/HackeAssemblerV1.AssemblyInfoInputs.cache
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/obj/Debug/net5.0/HackeAssemblerV1.AssemblyInfo.cs
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/obj/Debug/net5.0/HackeAssemblerV1.csproj.CoreCompileInputs.cache
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/obj/Debug/net5.0/HackeAssemblerV1.dll
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/obj/Debug/net5.0/ref/HackeAssemblerV1.dll
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/obj/Debug/net5.0/HackeAssemblerV1.pdb
+/Users/paulocosta/Desktop/Repositories/HackeAssemblerV1/HackeAssemblerV1/obj/Debug/net5.0/HackeAssemblerV1.genruntimeconfig.cache
